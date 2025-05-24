@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hi, I’m Bhavesh Khatwani (@bhavesh68)  
+- 👋 Hi, I’m Bhavesh Khatwani (@bhavesh68)  
 - 👀 I’m passionate about designing scalable web applications, optimizing frontend performance, and architecting full-stack solutions.  
 - 🌱 I’m currently expanding my expertise in advanced React patterns, TypeScript best practices, and backend scalability with Node.js and PostgreSQL.  
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.  
